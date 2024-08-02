@@ -26,6 +26,6 @@ This project was built with the following technologies:
 
 - 
 ## Screenshots
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Amiraliansaripour/rtl-admin-panel/blob/master/src/assets/img/dashboards/balanceImg.png))
 
 
