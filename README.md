@@ -27,5 +27,5 @@ This project was built with the following technologies:
 - 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/Amiraliansaripour/rtl-admin-panel/master/src/assets/img/avatars/avatar10.png))
 
