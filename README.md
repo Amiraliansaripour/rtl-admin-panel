@@ -26,6 +26,6 @@ This project was built with the following technologies:
 
 - 
 ## Screenshots
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/Amiraliansaripour/rtl-admin-panel/master/src/assets/img/avatars/avatar10.png)
 
