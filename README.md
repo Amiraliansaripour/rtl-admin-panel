@@ -23,3 +23,9 @@ This project was built with the following technologies:
 - Black list of users
 - Black list of analysts
 - ...
+
+- 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
